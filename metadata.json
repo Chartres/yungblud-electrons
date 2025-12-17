@@ -1,0 +1,5 @@
+{
+  "name": "The Electron Underground",
+  "description": "A Yungblud-themed interactive chemistry experience teaching electron configurations with attitude. Features an AI tutor 'Dom', interactive orbital visualizers, and a punk-rock design system.",
+  "requestFramePermissions": []
+}
